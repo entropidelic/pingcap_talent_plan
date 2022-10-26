@@ -22,3 +22,4 @@ fn main() {
     let home = env::var_os("HOME");
     println!("Home env variable: {:?}", home);
 }
+
